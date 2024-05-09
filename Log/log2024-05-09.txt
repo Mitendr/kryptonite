@@ -1,0 +1,59 @@
+2024-05-09 00:00:10,948 - BasePage.py -INFO - Getting all elements from the list of elements h3_search_css
+2024-05-09 00:00:34,924 - BasePage.py -INFO - entering text in searchbox_xpathDell Computer
+2024-05-09 00:00:34,929 - BasePage.py -INFO - getting web element searchbox_xpath
+2024-05-09 00:00:41,791 - BasePage.py -INFO - getting web element brand_filter_xpath
+2024-05-09 00:00:53,582 - BasePage.py -INFO - clicking on the elementdell_filter_xpath
+2024-05-09 00:00:58,655 - BasePage.py -INFO - entering text in minValue_xpath30000
+2024-05-09 00:00:58,723 - BasePage.py -INFO - entering text in maxValue_xpath5000
+2024-05-09 00:01:10,914 - BasePage.py -INFO - clicking on the elementGo_xpath
+2024-05-09 00:01:30,937 - BasePage.py -INFO - Getting all elements from the list of elements items_css
+2024-05-09 00:04:24,918 - BasePage.py -INFO - Getting all elements from the list of elements h3_search_css
+2024-05-09 00:04:38,467 - BasePage.py -INFO - entering text in searchbox_xpathDell Computer
+2024-05-09 00:04:38,472 - BasePage.py -INFO - getting web element searchbox_xpath
+2024-05-09 00:04:49,323 - BasePage.py -INFO - getting web element brand_filter_xpath
+2024-05-09 00:05:02,425 - BasePage.py -INFO - clicking on the elementdell_filter_xpath
+2024-05-09 00:05:07,503 - BasePage.py -INFO - entering text in minValue_xpath30000
+2024-05-09 00:05:07,536 - BasePage.py -INFO - entering text in maxValue_xpath5000
+2024-05-09 00:05:09,336 - BasePage.py -INFO - clicking on the elementgo_xpath
+2024-05-09 00:05:34,366 - BasePage.py -INFO - Getting all elements from the list of elements items_css
+2024-05-09 00:06:08,136 - BasePage.py -INFO - Getting all elements from the list of elements h3_search_css
+2024-05-09 00:06:32,378 - BasePage.py -INFO - entering text in searchbox_xpathDell Computer
+2024-05-09 00:06:32,382 - BasePage.py -INFO - getting web element searchbox_xpath
+2024-05-09 00:06:43,052 - BasePage.py -INFO - getting web element brand_filter_xpath
+2024-05-09 00:06:54,713 - BasePage.py -INFO - clicking on the elementdell_filter_xpath
+2024-05-09 00:06:59,787 - BasePage.py -INFO - entering text in minValue_xpath30000
+2024-05-09 00:06:59,837 - BasePage.py -INFO - entering text in maxValue_xpath50000
+2024-05-09 00:07:01,671 - BasePage.py -INFO - clicking on the elementgo_xpath
+2024-05-09 00:07:26,701 - BasePage.py -INFO - Getting all elements from the list of elements items_css
+2024-05-09 00:16:30,182 - BasePage.py -INFO - Getting all elements from the list of elements h3_search_css
+2024-05-09 00:16:42,952 - BasePage.py -INFO - entering text in searchbox_xpathDell Computer
+2024-05-09 00:16:42,957 - BasePage.py -INFO - getting web element searchbox_xpath
+2024-05-09 00:16:50,225 - BasePage.py -INFO - getting web element brand_filter_xpath
+2024-05-09 00:17:02,291 - BasePage.py -INFO - clicking on the elementdell_filter_xpath
+2024-05-09 00:18:51,527 - BasePage.py -INFO - Getting all elements from the list of elements h3_search_css
+2024-05-09 00:19:03,974 - BasePage.py -INFO - entering text in searchbox_xpathDell Computer
+2024-05-09 00:19:03,979 - BasePage.py -INFO - getting web element searchbox_xpath
+2024-05-09 00:19:10,791 - BasePage.py -INFO - getting web element brand_filter_xpath
+2024-05-09 00:19:22,370 - BasePage.py -INFO - clicking on the elementdell_filter_xpath
+2024-05-09 00:19:27,446 - BasePage.py -INFO - entering text in minValue_xpath30000
+2024-05-09 00:19:27,478 - BasePage.py -INFO - entering text in maxValue_xpath50000
+2024-05-09 00:19:29,190 - BasePage.py -INFO - clicking on the elementgo_xpath
+2024-05-09 00:19:54,219 - BasePage.py -INFO - Getting all elements from the list of elements items_css
+2024-05-09 00:19:54,492 - BasePage.py -INFO - Getting all elements from the list of elements five_rating_xpath
+2024-05-09 00:19:54,501 - BasePage.py -INFO - clicking on the elementcart_css
+2024-05-09 00:22:46,130 - BasePage.py -INFO - Getting all elements from the list of elements h3_search_css
+2024-05-09 00:23:03,322 - BasePage.py -INFO - entering text in searchbox_xpathDell Computer
+2024-05-09 00:23:03,327 - BasePage.py -INFO - getting web element searchbox_xpath
+2024-05-09 00:23:10,229 - BasePage.py -INFO - getting web element brand_filter_xpath
+2024-05-09 00:23:21,780 - BasePage.py -INFO - clicking on the elementdell_filter_xpath
+2024-05-09 00:23:26,852 - BasePage.py -INFO - entering text in minValue_xpath30000
+2024-05-09 00:23:26,883 - BasePage.py -INFO - entering text in maxValue_xpath50000
+2024-05-09 00:23:28,643 - BasePage.py -INFO - clicking on the elementgo_xpath
+2024-05-09 00:23:53,670 - BasePage.py -INFO - Getting all elements from the list of elements items_css
+2024-05-09 00:23:53,932 - BasePage.py -INFO - Getting all elements from the list of elements five_rating_xpath
+2024-05-09 00:23:53,946 - BasePage.py -INFO - Getting all elements from the list of elements five_rating_xpath
+2024-05-09 00:24:04,134 - BasePage.py -INFO - clicking on the elementcart_css
+2024-05-09 09:28:42,536 - BasePage.py -INFO - Getting all elements from the list of elements h3_search_css
+2024-05-09 09:28:49,117 - BasePage.py -INFO - clicking on the elementlogin_xpath
+2024-05-09 09:28:49,151 - BasePage.py -INFO - entering text in email_xpathmitendrayadav07@gmail.com
+2024-05-09 09:28:50,248 - BasePage.py -INFO - clicking on the elementcontinue_xpath
