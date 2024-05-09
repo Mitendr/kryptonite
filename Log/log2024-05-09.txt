@@ -57,3 +57,17 @@
 2024-05-09 09:28:49,117 - BasePage.py -INFO - clicking on the elementlogin_xpath
 2024-05-09 09:28:49,151 - BasePage.py -INFO - entering text in email_xpathmitendrayadav07@gmail.com
 2024-05-09 09:28:50,248 - BasePage.py -INFO - clicking on the elementcontinue_xpath
+2024-05-09 09:56:42,770 - BasePage.py -INFO - Getting all elements from the list of elements h3_search_css
+2024-05-09 09:56:50,353 - BasePage.py -INFO - Getting all elements from the list of elements h3_search_css
+2024-05-09 09:57:04,446 - BasePage.py -INFO - Getting all elements from the list of elements h3_search_css
+2024-05-09 09:57:15,635 - BasePage.py -INFO - entering text in searchbox_xpathDell Computer
+2024-05-09 09:57:15,640 - BasePage.py -INFO - getting web element searchbox_xpath
+2024-05-09 09:57:22,171 - BasePage.py -INFO - getting web element brand_filter_xpath
+2024-05-09 09:57:33,567 - BasePage.py -INFO - clicking on the elementdell_filter_xpath
+2024-05-09 09:57:38,647 - BasePage.py -INFO - entering text in minValue_xpath30000
+2024-05-09 09:57:38,690 - BasePage.py -INFO - entering text in maxValue_xpath50000
+2024-05-09 09:57:40,072 - BasePage.py -INFO - clicking on the elementgo_xpath
+2024-05-09 09:58:05,105 - BasePage.py -INFO - Getting all elements from the list of elements items_css
+2024-05-09 09:58:05,375 - BasePage.py -INFO - Getting all elements from the list of elements five_rating_xpath
+2024-05-09 09:58:05,389 - BasePage.py -INFO - Getting all elements from the list of elements five_rating_xpath
+2024-05-09 09:58:15,538 - BasePage.py -INFO - clicking on the elementcart_css

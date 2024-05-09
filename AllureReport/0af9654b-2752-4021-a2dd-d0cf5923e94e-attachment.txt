@@ -1,0 +1,1 @@
+[32mINFO    [0m Pages.BasePage:BasePage.py:73 Getting all elements from the list of elements h3_search_css

@@ -1,0 +1,12 @@
+[32mINFO    [0m Pages.BasePage:BasePage.py:73 Getting all elements from the list of elements h3_search_css
+[32mINFO    [0m Pages.BasePage:BasePage.py:46 entering text in searchbox_xpathDell Computer
+[32mINFO    [0m Pages.BasePage:BasePage.py:85 getting web element searchbox_xpath
+[32mINFO    [0m Pages.BasePage:BasePage.py:85 getting web element brand_filter_xpath
+[32mINFO    [0m Pages.BasePage:BasePage.py:26 clicking on the elementdell_filter_xpath
+[32mINFO    [0m Pages.BasePage:BasePage.py:46 entering text in minValue_xpath30000
+[32mINFO    [0m Pages.BasePage:BasePage.py:46 entering text in maxValue_xpath50000
+[32mINFO    [0m Pages.BasePage:BasePage.py:26 clicking on the elementgo_xpath
+[32mINFO    [0m Pages.BasePage:BasePage.py:73 Getting all elements from the list of elements items_css
+[32mINFO    [0m Pages.BasePage:BasePage.py:73 Getting all elements from the list of elements five_rating_xpath
+[32mINFO    [0m Pages.BasePage:BasePage.py:73 Getting all elements from the list of elements five_rating_xpath
+[32mINFO    [0m Pages.BasePage:BasePage.py:26 clicking on the elementcart_css
